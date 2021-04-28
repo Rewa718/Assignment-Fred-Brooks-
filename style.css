@@ -5,9 +5,11 @@ div {
   padding: 50px;
   margin: 50px;
 }
+
 body {
-  background-color:rgba(235, 224, 235, 0.562);
+  background-color: rgba(235, 224, 235, 0.562);
 }
+
 img {
   display: block;
   margin-left: auto;
